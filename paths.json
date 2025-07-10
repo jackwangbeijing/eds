@@ -1,10 +1,10 @@
 {
 	"mappings": [
-		"/content/jackedspractice/:/",
-		"/content/jackedspractice/configuration:/.helix/config.json",
-		"/content/jackedspractice/metadata:/metadata. json"
+		"/content/JackEDSPractice/:/",
+		"/content/JackEDSPractice/configuration:/.helix/config.json",
+		"/content/JackEDSPractice/metadata:/metadata.json"
 	],
 	"includes": [
-		"/content/jackedspractice/"
+		"/content/JackEDSPractice/"
 	]
 }
